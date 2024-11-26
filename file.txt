@@ -1,0 +1,16 @@
+Hello Git!
+
+
+
+
+
+
+nano file.txt
+
+
+nano file.txt
+
+git status
+
+
+
